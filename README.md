@@ -1,3 +1,3 @@
 # Simple-Image-Classifier
 
-![Simple-Image-Classifier](results/demo.mp4)
+![Simple-Image-Classifier](results/demo.gif)
